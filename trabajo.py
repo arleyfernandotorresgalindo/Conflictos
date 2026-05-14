@@ -10,3 +10,5 @@ def sumar(n):
     for i in range(n):
         suma += i
     return suma 
+def hola(s):
+    print f'Hola {s}'
