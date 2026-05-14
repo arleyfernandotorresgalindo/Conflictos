@@ -4,4 +4,6 @@ def primo(n):
             return False
     
     return True
-    
+
+def hola(s):
+    print f'Hola {s}'
