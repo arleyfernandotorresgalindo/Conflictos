@@ -12,3 +12,9 @@ def sumar(n):
     return suma 
 def hola(s):
     print f'Hola {s}'
+
+def producto(L):
+    r = 1
+    for i in L:
+        r *= i
+    return r
