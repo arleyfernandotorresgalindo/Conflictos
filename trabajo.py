@@ -23,3 +23,5 @@ def despedirse(s):
 
 def tabla_siete(n):
     return 7*n
+def tabla_cinco(n):
+    return 5*n
