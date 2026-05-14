@@ -18,3 +18,5 @@ def producto(L):
     for i in L:
         r *= i
     return r
+def despedirse(s):
+    return f'Hasta luego {s}'
