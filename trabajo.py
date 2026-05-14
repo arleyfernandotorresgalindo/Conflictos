@@ -20,3 +20,6 @@ def producto(L):
     return r
 def despedirse(s):
     return f'Hasta luego {s}'
+
+def tabla_siete(n):
+    return 7*n
