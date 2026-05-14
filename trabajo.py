@@ -12,3 +12,6 @@ def sumar(n):
     return suma 
 def hola(s):
     print f'Hola {s}'
+
+def despedirse(s):
+    return f'Hasta luego {s}'
