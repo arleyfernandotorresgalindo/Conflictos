@@ -4,4 +4,9 @@ def primo(n):
             return False
     
     return True
-    
+
+def sumar(n):
+    suma = 0
+    for i in range(n):
+        suma += i
+    return suma 
